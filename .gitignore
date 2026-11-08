@@ -1,0 +1,16 @@
+# CMake build output
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Compiled binaries
+*.out
+*.o
+primes/primes
+vector_add/vector_add
+euclidean_distance/euclidean_distance
+matrix_multiply/matrix_multiply
+trapezoidal_travel/trapezoidal_travel_basic
+trapezoidal_travel/trapezoidal_travel_gpu_reduce
